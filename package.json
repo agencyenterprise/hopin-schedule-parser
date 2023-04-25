@@ -1,0 +1,8 @@
+{
+    "name": "hopin-schedule-parser",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node ."
+    }
+}
