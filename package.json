@@ -2,7 +2,12 @@
   "name": "hopin-schedule-parser",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "jest"
   },
-  "bin": "./index.js"
+  "bin": "./index.js",
+  "dependencies": {
+    "jest": "^29.5.0",
+    "slugify": "^1.6.6"
+  }
 }
